@@ -1,9 +1,10 @@
 - void main() 
 -     {
--         print("👋 Hi, I’m @95ghost,
--                👀 I’m interested in stand alone, web, and android applications development,
--                🌱 I’m currently learning Dart and flutter,
--                📫 How to reach me chawanangwatambala@gmail.com");
+-         print('👋 Hi, I’m @95ghost');
+-         
+-                /* 👀 I’m interested in stand alone, web, and android applications development,
+-                   🌱 I’m currently learning Dart and flutter,
+-                   📫 How to reach me chawanangwatambala@gmail.com*/
 -      }
 
 <!---
